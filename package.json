@@ -1,0 +1,28 @@
+{
+  "name": "dynamic-resume-builder08",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  "Editable Fields",
+  "PDF Generation",
+  "Shareable Link",
+  "Form Submission",
+  "TypeScript Integration",
+  "JavaScript",
+  "Dynamic Content",
+  "User Input Validation",
+  "Local Storage",
+  "Resume Template Engine",
+  "Interactive Interface",
+  "Client-Side Scripting"
+],
+  "author": "Hiba Muhammad Dawood",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "html2pdf.js": "^0.10.2"
+  }
+}
