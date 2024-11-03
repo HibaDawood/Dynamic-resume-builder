@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url(abstract-aquamarine-color-foliage-background.avif);
+  background: #c4eff1;
   background-repeat: no-repeat;
   background-size: 100%;
 }
