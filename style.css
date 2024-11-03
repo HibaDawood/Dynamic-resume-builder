@@ -196,6 +196,7 @@ input[type="file"] {
       background-size: cover;
       background-position: center top;
       background-position-y: 0.1px;
+      background-attachment: scroll;
     }
   }
 
