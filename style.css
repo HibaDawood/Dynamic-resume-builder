@@ -170,6 +170,25 @@ textarea:focus {
   color: #08423f;
   text-align: center;
 }
+////////////
+input[type="file"] {
+    font-size: 16px;
+  }
+  
+  @media (max-width: 768px) {
+    input[type="file"] {
+      font-size: 14px;
+    }
+  } 
+/////////
+
+
+
+
+
+
+
+
 
 /* Responsive Design for Tablets */
 @media (max-width: 768px) {
