@@ -8,7 +8,9 @@ body {
   height: 100vh;
   background: #c4eff1;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
+  background-position: center;
+  background-position-y: 0.1px;
 }
 .firsth1 {
   font-family: "Unlock", serif;
@@ -181,7 +183,21 @@ input[type="file"] {
     }
   } 
 /////////
-
+  /* Additional media queries for responsiveness */
+@media (max-width: 768px) {
+    body {
+      background-size: contain;
+      background-position-y: 0.1px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    body {
+      background-size: cover;
+      background-position: center top;
+      background-position-y: 0.1px;
+    }
+  }
 
 
 
